@@ -22,5 +22,5 @@ Social networks play a significant role in our digital lives, making it valuable
 # Contribution To You or The Community
 
 **1.For You:** The project enhances problem-solving skills, deepens understanding of graph theory, and improves Java programming proficiency.
-**2.For the Community: **It serves as an educational tool for students and developers to learn about graphs and their applications. It can also inspire similar tools for relationship mapping, social media analysis, and community building.
+**2.For the Community:**It serves as an educational tool for students and developers to learn about graphs and their applications. It can also inspire similar tools for relationship mapping, social media analysis, and community building.
 
